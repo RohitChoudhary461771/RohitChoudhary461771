@@ -5,7 +5,9 @@
 🌟 Here you'll find a collection of my projects, including:
 
 📚 DSA-related content to help you understand and implement various algorithms and data structures.
+
 💻 Java and C++ projects showcasing my skills and problem-solving abilities.
+
 🌐 Web development projects that demonstrate my ability to create functional and responsive web applications.
 
 📫 How to reach me:
