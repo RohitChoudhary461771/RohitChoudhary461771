@@ -1,14 +1,14 @@
 ## Hi there 👋I'm Rohit, a passionate software developer with a keen interest in solving complex problems and building robust solutions. My GitHub is a reflection of my journey in the world of programming and technology. 
 
-🌱 I’m currently exporing more about web technologies.
+🌱 I’m currently exploring more about web technologies.
 
 🌟 Here you'll find a collection of my projects, including:
 
-📚 DSA-related content to help you understand and implement various algorithms and data structures.
+    📚 DSA-related content to help you understand and implement various algorithms and data structures.
 
-💻 Java and C++ projects showcasing my skills and problem-solving abilities.
+    💻 Java and C++ projects showcasing my skills and problem-solving abilities.
 
-🌐 Web development projects that demonstrate my ability to create functional and responsive web applications.
+    🌐 Web development projects that demonstrate my ability to create functional and responsive web applications.
 
 📫 How to reach me:
     rc634813@gmail.com
